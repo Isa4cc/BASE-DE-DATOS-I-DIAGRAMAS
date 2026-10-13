@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="wGophTM8HSwrRRDDdUel">
-    <mxGraphModel dx="1978" dy="1449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2504" dy="1739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,8 +58,8 @@
         <mxCell id="QFcVKTSfeMpnASrl19mG-16" edge="1" parent="1" source="QFcVKTSfeMpnASrl19mG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="QFcVKTSfeMpnASrl19mG-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QFcVKTSfeMpnASrl19mG-17" parent="1" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;fillColor=#E1D5E7;" value="PRESENTA" vertex="1">
-          <mxGeometry height="60" width="140" x="-460" y="240" as="geometry" />
+        <mxCell id="QFcVKTSfeMpnASrl19mG-17" parent="1" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;fillColor=#E1D5E7;" value="Paciente_AlergiaCatalogo" vertex="1">
+          <mxGeometry height="70" width="150" x="-460" y="240" as="geometry" />
         </mxCell>
         <mxCell id="QFcVKTSfeMpnASrl19mG-18" edge="1" parent="1" source="QFcVKTSfeMpnASrl19mG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="QFcVKTSfeMpnASrl19mG-3">
           <mxGeometry relative="1" as="geometry" />
