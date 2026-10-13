@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="2VB2t8iYJmCVo60i4XZ5">
-    <mxGraphModel dx="2264" dy="1729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2554" dy="2039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -265,7 +265,7 @@
         <mxCell id="fke3-XiKFJOfEE7DFypt-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="(1,N)" vertex="1">
           <mxGeometry height="30" width="60" x="395" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="fke3-XiKFJOfEE7DFypt-15" parent="1" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" value="ESCRIBE" vertex="1">
+        <mxCell id="fke3-XiKFJOfEE7DFypt-15" parent="1" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" value="Autor_Libro" vertex="1">
           <mxGeometry height="60" width="140" x="200" y="200" as="geometry" />
         </mxCell>
         <mxCell id="fke3-XiKFJOfEE7DFypt-17" edge="1" parent="1" source="fke3-XiKFJOfEE7DFypt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;curveGeometry=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="fke3-XiKFJOfEE7DFypt-15">
@@ -300,7 +300,7 @@
         <mxCell id="fke3-XiKFJOfEE7DFypt-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="(1,1)" vertex="1">
           <mxGeometry height="30" width="60" x="820" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="fke3-XiKFJOfEE7DFypt-27" parent="1" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" value="SOLICITA" vertex="1">
+        <mxCell id="fke3-XiKFJOfEE7DFypt-27" parent="1" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" value="Usuario_Prestamo" vertex="1">
           <mxGeometry height="60" width="140" x="760" y="80" as="geometry" />
         </mxCell>
         <mxCell id="fke3-XiKFJOfEE7DFypt-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="(1,N)" vertex="1">
